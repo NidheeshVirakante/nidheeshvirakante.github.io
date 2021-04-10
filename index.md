@@ -1,9 +1,8 @@
 ## Nidheesh Virakante
 Ph.D. student at Graduate School of Information Sciences, Tohoku University, Japan
 
-### Markdown
+### Career History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
