@@ -5,7 +5,7 @@ Ph.D. student at Graduate School of Information Sciences, Tohoku University, Jap
 
 2017 July - 2020 November<br>
 Acoustic CAE Analyst, NVH and Acoustics <br>
-Mercedes Benz Research and development India Pvt. Ltd., bangalore, India
+Mercedes Benz Research and development India Pvt. Ltd., Bangalore, India
 
 ## Education
 Master of Technology in Mechanical Engineering, with speciallization in Mechanics and Design (2017)<br>
